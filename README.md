@@ -12,4 +12,5 @@ WhatsApp BOT using @adiwajshing/Baileys software for beginners
 8. pkg install ffmpeg
 9. pkg install wget
 10. node index.js
+
 Enjoy...
