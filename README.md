@@ -5,7 +5,6 @@ WhatsApp BOT using @adiwajshing/Baileys software for beginners
 
 ## Installation
 
-# Termux
 ```bash
 > git clone https://github.com/FazrilDev/WhatsApp-BOT
 > cd WhatsApp-BOT
