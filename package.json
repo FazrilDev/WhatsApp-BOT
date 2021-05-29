@@ -1,31 +1,36 @@
 {
-  "name": "WhatsApp-BOT[plain]",
+  "name": "WhatsAppBOT - plain",
   "version": "1.0.0",
-  "description": "WhatsApp BOT",
+  "description": "bot wa example",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.2.1",
     "axios": "^0.21.1",
-    "moment": "^2.29.1"
+    "bash": "0.0.1",
+    "got": "^11.8.0",
+    "@adiwajshing/baileys": "^3.2.1",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "qrcode-terminal": "^0.12.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/FazrilDev/WhatsApp-BOT.git"
   },
   "keywords": [
-    "k"
+    "whatsappbot",
+    "Whatsapp bot"
   ],
   "author": "FazrilDev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/FazrilDev/WhatsApp-BOT/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/FazrilDev/WhatsApp-BOT#readme"
 }
