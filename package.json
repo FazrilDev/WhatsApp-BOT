@@ -1,5 +1,5 @@
 {
-  "name": "WhatsAppBOT - plain",
+  "name": "whatsapp-bot",
   "version": "1.0.0",
   "description": "bot wa example",
   "main": "index.js",
@@ -24,8 +24,8 @@
     "url": "git+https://github.com/FazrilDev/WhatsApp-BOT.git"
   },
   "keywords": [
-    "whatsappbot",
-    "Whatsapp bot"
+    "whatsapp",
+    "bot"
   ],
   "author": "FazrilDev",
   "license": "ISC",
